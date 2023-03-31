@@ -11,6 +11,8 @@ body {
 .wrapper{
     display: flex;
     position: relative;
+    justify-content: space-between;
+     min-height: 100vh;
 }
 .wrapper .sidebar{
     position: fixed;
